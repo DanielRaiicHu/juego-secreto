@@ -271,7 +271,7 @@ function sumarListas(lista1,lista2){
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
-let numeroMaximo = 4;
+let numeroMaximo = 8;
 //console.log(numeroSecreto); //para verificar en consola
 
 function asignarTextoElemento(elemento, texto){
